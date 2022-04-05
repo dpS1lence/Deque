@@ -1,0 +1,15 @@
+F:\3_DavidDocuments\Work\SOFT-UNI\Advanced\OOP\StaticDeque\StaticDeque\obj\Debug\net6.0\StaticDeque.csproj.AssemblyReference.cache
+F:\3_DavidDocuments\Work\SOFT-UNI\Advanced\OOP\StaticDeque\StaticDeque\obj\Debug\net6.0\StaticDeque.GeneratedMSBuildEditorConfig.editorconfig
+F:\3_DavidDocuments\Work\SOFT-UNI\Advanced\OOP\StaticDeque\StaticDeque\obj\Debug\net6.0\StaticDeque.AssemblyInfoInputs.cache
+F:\3_DavidDocuments\Work\SOFT-UNI\Advanced\OOP\StaticDeque\StaticDeque\obj\Debug\net6.0\StaticDeque.AssemblyInfo.cs
+F:\3_DavidDocuments\Work\SOFT-UNI\Advanced\OOP\StaticDeque\StaticDeque\obj\Debug\net6.0\StaticDeque.csproj.CoreCompileInputs.cache
+F:\3_DavidDocuments\Work\SOFT-UNI\Advanced\OOP\StaticDeque\StaticDeque\bin\Debug\net6.0\StaticDeque.exe
+F:\3_DavidDocuments\Work\SOFT-UNI\Advanced\OOP\StaticDeque\StaticDeque\bin\Debug\net6.0\StaticDeque.deps.json
+F:\3_DavidDocuments\Work\SOFT-UNI\Advanced\OOP\StaticDeque\StaticDeque\bin\Debug\net6.0\StaticDeque.runtimeconfig.json
+F:\3_DavidDocuments\Work\SOFT-UNI\Advanced\OOP\StaticDeque\StaticDeque\bin\Debug\net6.0\StaticDeque.dll
+F:\3_DavidDocuments\Work\SOFT-UNI\Advanced\OOP\StaticDeque\StaticDeque\bin\Debug\net6.0\ref\StaticDeque.dll
+F:\3_DavidDocuments\Work\SOFT-UNI\Advanced\OOP\StaticDeque\StaticDeque\bin\Debug\net6.0\StaticDeque.pdb
+F:\3_DavidDocuments\Work\SOFT-UNI\Advanced\OOP\StaticDeque\StaticDeque\obj\Debug\net6.0\StaticDeque.dll
+F:\3_DavidDocuments\Work\SOFT-UNI\Advanced\OOP\StaticDeque\StaticDeque\obj\Debug\net6.0\ref\StaticDeque.dll
+F:\3_DavidDocuments\Work\SOFT-UNI\Advanced\OOP\StaticDeque\StaticDeque\obj\Debug\net6.0\StaticDeque.pdb
+F:\3_DavidDocuments\Work\SOFT-UNI\Advanced\OOP\StaticDeque\StaticDeque\obj\Debug\net6.0\StaticDeque.genruntimeconfig.cache
